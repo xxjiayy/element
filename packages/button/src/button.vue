@@ -36,7 +36,7 @@
     },
 
     props: {
-      type: {
+      type: {// 类型 primary / success / warning / danger / info / text
         type: String,
         default: 'default'
       },
